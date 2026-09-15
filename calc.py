@@ -1,0 +1,6 @@
+print("select operation")
+print("1. Add")
+print("2. SubtraCT")
+print("3. Multiply")
+print("4. divide")
+print("5. Power")
